@@ -1,7 +1,7 @@
 # version_control
 Repository for version controlling
 
-## Title
+## Title 1
 
 ## Second title
 
