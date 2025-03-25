@@ -8,3 +8,5 @@ Repository for version controlling
 ## Third title
 
 ## Fourth title
+
+## zmiany w readme
